@@ -31,7 +31,7 @@ export default async function Home() {
     <main className="flex flex-1 items-center justify-center bg-background px-6 py-16">
       <div className="w-full max-w-4xl space-y-12 text-center">
         <section className="space-y-6">
-          <p className="text-sm font-medium text-muted-foreground">LinkShortnerProject</p>
+          <p className="text-sm font-medium text-muted-foreground">LinkShortner Project</p>
           <h1 className="text-4xl font-semibold tracking-tight text-foreground sm:text-5xl">
             Shorten links, share faster, and stay organized.
           </h1>
